@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception{
-        System.out.println("Hello");
+        System.out.println("Hello Some changes");
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
         primaryStage.setTitle("IndicoPicturesGUI");
         primaryStage.setScene(new Scene(root, 900, 550));
