@@ -7,10 +7,7 @@ public class DB{
     public void connect(){
         try {
             Class.forName("com.mysql.jdbc.Driver").newInstance();
-            conn =
-                    DriverManager.getConnection("jdbc:mysql://mysql.agh.edu.pl/nazwa_bazy",
-                            "username","password");
-
+            conn = DriverManager.getConnection("jdbc:mysql://mysql.agh.edu.pl/bielech","bielech","0qoz6eZ86FAB2TYm");
         } catch (SQLException ex) {
             // handle any errors
             System.out.println("SQLException: " + ex.getMessage());
@@ -18,38 +15,26 @@ public class DB{
             System.out.println("VendorError: " + ex.getErrorCode());
         }catch(Exception e){e.printStackTrace();}
     }
-    public void listNames(){
-        try {
-            connect();
-            stmt = conn.createStatement();
-
-            // Wyciagamy wszystkie pola z kolumny name
-            // znajdujące się w tabeli users
-            rs = stmt.executeQuery("SELECT name FROM users");
-
-            while(rs.next()){
-                String name = rs.getString(1);
-                System.out.println("Uzytkownik: "+name);
-            }
-        }catch (SQLException ex){
-            // handle any errors
-
-        }finally {
-            // zwalniamy zasoby, które nie będą potrzebne
-            if (rs != null) {
-                try {
-                    rs.close();
-                } catch (SQLException sqlEx) { } // ignore
-                rs = null;
-            }
-
-            if (stmt != null) {
-                try {
-                    stmt.close();
-                } catch (SQLException sqlEx) { } // ignore
-
-                stmt = null;
-            }
+    public void listBooks(String query) throws SQLException {
+        stmt = conn.createStatement();
+        rs = stmt.executeQuery(query);
+        while (rs.next()) {
+            System.out.println("ISBN: " + rs.getString(1) + " Tytuł: " + rs.getString(2) +
+                    " Autor: " + rs.getString(3) + " Rok: " + rs.getString(4));
         }
+    }
+    public void deleteBookAuthor(String author) throws SQLException{
+        stmt = conn.createStatement();
+        stmt.executeUpdate(
+                "DELETE FROM books WHERE author = \""+author+"\"");
+    }
+    public void deleteBookISBN(String isbn) throws SQLException{
+        stmt = conn.createStatement();
+        stmt.executeUpdate(
+                "DELETE FROM books WHERE isbn = \""+isbn+"\"");
+    }
+    public void addBook(String isbn, String title, String author, Integer year)throws SQLException{
+        stmt = conn.createStatement();
+        stmt.executeUpdate("INSERT INTO books VALUES ('"+ isbn +"','"+ title +"','"+ author +"',"+ year+")");
     }
 }
