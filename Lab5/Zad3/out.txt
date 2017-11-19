@@ -1,0 +1,661 @@
+{418}{617}/Na wysokości 600 kilometrów temperatura waha się|/między 126 a -100 stopniami Celsjusza.
+{634}{771}/Dźwięk się nie niesie.|/Nie ma ciśnienia ani tlenu.
+{845}{890}/Życie w kosmosie jest niemożliwe.
+{965}{1039}GRAWITACJA
+{1044}{1104}.:: GrupaHatak.pl ::.
+{1107}{1171}Tłumaczenie:|rarehare & józek
+{1629}{1764}/Proszę o potwierdzenie, że pierwsza i druga|/część obudowy dysku P1 zostały usunięte.
+{1780}{1936}/- DMA M-1, M-2, M-3 i M-4 zakończone.|/- Przyjąłem, Explorer.
+{1963}{2063}/Dr Stone, tu Houston.|/Lekarzy niepokoją odczyty EKG.
+{2082}{2178}/- Nic mi nie jest, Houston.|/- Lekarze sądzą inaczej, pani doktor.
+{2178}{2267}/- Odczuwa pani nudności?|/- Nie bardziej niż zwykle, Houston.
+{2269}{2305}/Diagnostyka pozytywna.
+{2325}{2396}/Połączenie z kartą komunikacyjną|/gotowe do obioru danych.
+{2430}{2504}/Jeśli to zadziała, kiedy wylądujemy,|/stawiam wszystkim kolejkę.
+{2528}{2564}/Umowa, pani doktor.
+{2564}{2629}/Tylko pamiętaj,|/że Houston preferuje margarity.
+{2679}{2771}/Uruchamiam kartę.|/Potwierdźcie połączenie.
+{2792}{2847}/Brak potwierdzenia.|/Nie odczytujemy żadnych danych.
+{2871}{2934}/Zaczekajcie, Houston,|/zrestartuję kartę.
+{2938}{2974}/Czekamy.
+{2986}{3075}/- Houston, mam złe przeczucia.|/- Wyjaśnij.
+{3082}{3130}/Opowiem wam historię.
+{3133}{3221}/W '96 roku,|/kiedy byłem tu od 42 dni,
+{3228}{3281}/zawsze nad Teksasem|/spoglądałem w dół wiedząc,
+{3281}{3372}/że pani Kowalski patrzy w niebo,|/myśląc o mnie.
+{3396}{3439}/Wysyłałem jej całusy|/przez sześć tygodni.
+{3444}{3543}/Kiedy wylądowaliśmy w Edwards, dowiedziałem się,|/że zwiała z jakimś prawnikiem.
+{3547}{3619}/- Spakowałem się i ruszyłem autem do...|/- Tijuany.
+{3619}{3667}/Już to opowiadałeś, Kowalski.
+{3672}{3758}/Z tego, co Houston pamięta,|/odjechała w GTO z '74.
+{3766}{3842}/Inżynierka prosi o poziom paliwa|/w prototypie jet packa.
+{3861}{3929}/Przez pięć godzin w przestrzeni|/zużyłem tylko 30%.
+{3950}{3988}/Przekażcie inzynierom wyrazy szacunku.
+{3988}{4096}/Poza drobną wadą przy zerowaniu osi wzdłużnej,|/ten jet pack to kawał dobrej roboty.
+{4140}{4180}/Inżynierka przekazuje podziękowania.
+{4180}{4247}/Przekażcie, że wciąż wolę|/swoją corvettę z '67.
+{4252}{4327}- A propos, wspominałem może o...|/- Znamy historię o corvecie, Matt.
+{4331}{4410}- Nawet Inżynierka?|/- Zwłaszcza ona.
+{4439}{4482}/Będziemy tęsknić, Matt.
+{4492}{4578}/- Restart karty komunikacyjnej w trakcie.|/- Dziękujemy, pani doktor.
+{4586}{4626}/Shariff, podaj swój status?
+{4638}{4725}/Prawie skończyłem.|/Wymieniam moduł baterii A-1 i C.
+{4773}{4873}/Możesz być konkretniejszy?|/Nieokreślone szacunki niepokoją Houston.
+{4880}{4940}/Nie, Houston.|/Nie ma powodów do niepokoju.
+{4945}{5065}/To szkodzi sercu.|/System gotowy do reaktywacji.
+{5084}{5171}/Teleskop Hubble'a podłączony.|/Uaktualnienie funkcjonalne.
+{5175}{5235}/To brawa dla ciebie, Shariff.
+{5240}{5302}/Gratulacje.|/Wracaj, zrób sobie wolne.
+{5429}{5521}/Matt, widzisz, co robi teraz|/specjalista ds. misji Shariff?
+{5545}{5705}Wygląda to na pewną odmianę macareny.|Ale to tylko strzał.
+{5720}{5827}/Dr Stone, Houston. Lekarze informują|/o spadku temperatury do 35.1 stopni
+{5827}{5892}/i wzroście pulsu do 70.
+{5911}{5995}/- Jak się pani czuje?|- Nic mi nie jest, Houston.
+{6002}{6079}Po prostu działanie bez grawitacji|jest trudniejsze niż się wydaje.
+{6103}{6178}/Dr Stone, lekarze pytają,|/czy chce pani wrócić do Explorera.
+{6194}{6273}Nie, jesteśmy tu od tygodnia, Houston.|Skończmy to.
+{6283}{6365}- Karta podłączona.|/- Niestety.
+{6365}{6436}/Nic nie odbieramy, pani doktor.
+{6465}{6544}- Spróbujcie znowu.|/- Wciąż nic.
+{6604}{6688}- Houston, możecie wyłączyć muzykę?|/- Kowalski.
+{6700}{6779}- Nie ma problemu.|- Dzięki, Kowalski.
+{6858}{6926}Teraz, Houston?|/- Nic.
+{6942}{7002}Możliwe, że Houston|błędnie interpretuje dane?
+{7014}{7069}/Nie otrzymujemy żadnych danych.
+{7086}{7173}/Inżynierka zaleca|/sprawdzenie awarii komponentów.
+{7208}{7328}Sprawdzę, co się dzieje.|Co my tu mamy?
+{7511}{7568}Po kontroli wizualnej|nie widzę żadnych problemów.
+{7571}{7630}Źródło awarii musi znajdować się|w panelu komunikacyjnym.
+{7642}{7695}/Prawdopodobnie tak.
+{7702}{7762}/Inżynierka przyznaje,|/że nas pani ostrzegała.
+{7786}{7841}/To największe przeprosiny,|/na jakie ich stać.
+{7846}{7954}/Powinniśmy byli ich posłuchać, pani doktor.|/Będziemy musieli improwizować.
+{7961}{8057}- Już działam.|/- Ile czasu pani potrzebuje?
+{8069}{8144}- Godziny.|/- Świetnie.
+{8148}{8220}/Instalacja systemu w Hubble'u|/to główny cel misji,
+{8225}{8275}/więc doceniamy|/cierpliwość, pani doktor.
+{8292}{8359}/Kowalski, wiemy, że nie interesują cię|/takie rzeczy,
+{8364}{8426}/ale dla twojej informacji,|/opóźnienie nie będzie tak duże,
+{8431}{8498}/byś pobił rekord przebywania|/w przestrzeni Anatolija Sołowjowa.
+{8510}{8594}/- Zabraknie ci...|- 75 minut?
+{8601}{8642}Nawet o tym nie pomyślałem.
+{8661}{8788}/- Matt, to był zaszczyt.|- Wzajemnie, Houston.
+{8805}{8853}/Miłego ostatniego spaceru.
+{8865}{8944}Mam asystować dr Stone|w usunięciu panelu?
+{8949}{9009}- Byłoby świetnie.|/- Masz pozwolenie.
+{9011}{9047}Dziękuję, Houston.
+{9064}{9127}- Mogę dołączyć do zabawy?|- Pewnie.
+{9127}{9246}- Jak się czujesz?|- Jak chihuahua po wirowaniu.
+{9268}{9306}To był ciężki tydzień.
+{9330}{9431}Jeśli cię to pocieszy, podczas pierwszego lotu|wykaszlałem wszystko oprócz nerek.
+{9455}{9486}Cholera.
+{9637}{9668}Wybacz.
+{9697}{9788}Przywykłam do laboratorium w szpitalu,|gdzie rzeczy spadają na podłogę. Dzięki.
+{9836}{9923}Ty tu jesteś geniuszem.|Ja tylko prowadzę.
+{9935}{10035}Nazwiesz mnie geniuszem, jeśli uda mi się|uruchomić płytę w ciągu godziny.
+{10042}{10110}/- Explorer, tu Houston.|- Śmiało, Houston.
+{10119}{10217}/NORAD informuje, że rosyjski satelita|/został zestrzelony przez rakietę.
+{10222}{10337}/Uderzenie stworzyło chmurę odpadów|/orbitujących 32 000 km/h.
+{10349}{10433}/Obecna orbita odpadów nie przebiega|/po waszym torze.
+{10440}{10532}/- Będziemy was informować na bieżąco.|- Przyjęliśmy, Houston.
+{10544}{10668}- Powinniśmy się martwić?|- Nie, zmartwienia zostaw chłopakom.
+{10692}{10767}Explorer, uruchom ramię|i skieruj do ładowni.
+{10771}{10814}/Oczekujcie na ruch.
+{10831}{10918}Kiedy już pracujesz dla NASA,|jak ci się podobamy?
+{10922}{10975}To jak wygrana na loterii, nie?
+{10978}{11049}Cieszyłam się tylko,|że nie przestali finansować moich badań.
+{11049}{11109}- Ile trwał twój trening?|- Sześć miesięcy.
+{11109}{11153}- Z wakacjami?|- Tak.
+{11157}{11260}- Co to za system skanujący?|- Nic takiego, Matt.
+{11260}{11325}To tylko nowa para oczu|do skanowania krańców wszechświata.
+{11332}{11404}Zaprojektowany jest do szpitali,|ale ten jest prototypem.
+{11416}{11459}/Czekajcie na zamknięcie.
+{11481}{11586}Oni nie finansują prototypów.|Nawet za twe piękne, niebieskie oczy.
+{11615}{11766}- Moje oczy są brązowe.|- Teraz są krwiste.
+{11785}{11814}Kowalski!
+{11821}{12049}- Czy to nie świetne?|- I on chodził na Harvard.
+{12097}{12219}Jedno musisz przyznać,|takiego widoku nie pobijesz.
+{12315}{12459}- Co lubisz w byciu tutaj?|- Ciszę.
+{12498}{12546}Mogłabym do niej przywyknąć.
+{13039}{13073}Niesamowite.
+{13075}{13147}Houston, po pierwszym przeglądzie,|panele komunikacyjne wydają się zepsute.
+{13147}{13214}Odłączyć zasilanie awaryjne?
+{13219}{13279}Pani jest tu ekspertem.|Proszę decydować.
+{13279}{13342}Houston, mam złe przeczucia|co do tej misji.
+{13346}{13461}/- Rozwiń.|- To samo uczucie miałem na Mardi Gras w '87.
+{13497}{13529}/Zgadza się.
+{13533}{13641}/O dziwo, Kontrola nie słyszała historii|/o Mardi Gras. Kontynuuj.
+{13648}{13713}Jest dzień pierwszy|i pędzę po Bourbon Street
+{13720}{13792}szukając siostry znajomego.
+{13804}{13876}Na ulicach są tłumy.|Myślę, że nie ma szans, bym ją znalazł.
+{13881}{13979}- Przechodzę do wymiany.|- Nagle spoglądam w górę i spostrzegam ją.
+{13984}{14032}Chcę już krzyczeć,|ale widzę, że trzyma za rękę
+{14034}{14130}jakiegoś włochatego kikuta|w kąpielówkach i koszulce z Margaritaville.
+{14135}{14209}Potem orientuję się,|że ten koleś to nie koleś.
+{14214}{14262}Moja dziewczyna trzyma za rękę...
+{14262}{14313}/- ISS, tu Houston.|/- Mów, Houston.
+{14313}{14373}/- Explorer, tu Houston.|- Śmiało, Houston.
+{14377}{14437}/Przerwać misję.|/Powtarzam, przerwać misję.
+{14444}{14492}/Rozpocznijcie awaryjne odłączanie|/od Hubble'a.
+{14497}{14595}/Rozpocznijcie procedurę powrotu.|/ISS, rozpocznijcie ewakuację.
+{14595}{14672}Przyjęliśmy, Houston, działamy.|Matt, wracamy do Explorera.
+{14679}{14739}- Powtarzam, natychmiast wracamy do Explorera.|- Przyjąłem.
+{14747}{14799}- Explorer, przygotujcie śluzę.|/- Przygotowana,
+{14799}{14852}/- gotowa do odbioru.|- Houston, powiedz coś więcej.
+{14854}{14926}/Odpady po wybuchu wywołały|/reakcję łańcuchową,
+{14926}{14986}/uderzając w inne satelity|/i tworząc nowe odpady.
+{14993}{15063}/Zmierzają w waszym kierunku|/szybciej niż pociski.
+{15075}{15118}/- Przyjęliście?|- Tak jest.
+{15121}{15192}- Szybciej, dr Stone.|- Nie mogę.
+{15197}{15276}- Płyta wciąż się wgrywa.|- Nie powiem tego dwa razy.
+{15281}{15353}- Sekunda.|- Nie, teraz!
+{15356}{15468}- Zamknij to. To rozkaz!|- Dobrze, przepraszam.
+{15473}{15507}Skończyłam.
+{15507}{15571}/Kowalski, rozpocznij awaryjne|/odłączenie od Hubble'a.
+{15571}{15626}- Dobra, Shariff, do roboty.|- Przyjąłem, Matt.
+{15631}{15703}- Houston, informuj nas.|/- To reakcja łańcuchowa.
+{15715}{15830}/Potwierdzono, że to efekt uboczny|/zestrzelenia przez Rosjan ich satelity.
+{15842}{15914}- Zestrzelili własnego satelitę?|- Prawo własności.
+{15917}{15981}Zapewne satelita szpiegowski dał plamę.|Teraz to szrapnel.
+{15986}{16036}Explorer, gotowy do odłączenia Hubble'a.
+{16036}{16175}/- Zwolnienie zabezpieczeń za 3, 2, 1...|/- Explorer, nowe informacje.
+{16187}{16247}- Jaka jest sytuacja, Houston?|/- Nie jest dobrze.
+{16247}{16303}/Padła większość systemów.
+{16307}{16391}/Nie mamy kontroli|/nad reakcją łańcuchowa odpadów.
+{16391}{16458}/Zniszczonych zostało kilka satelitów|/i następne czekają w kolejce.
+{16463}{16538}- Zdefiniuj "kilka".|/- Większość z nich.
+{16542}{16650}/Systemy telekomunikacyjne padły.|/Oczekujcie na zerwanie połączenia.
+{16650}{16761}- Kowalski, odpady na dziewiątej.|- Połowie Ameryki padł Facebook.
+{16765}{16868}/Explorer, powtarzam,|/oczekujcie zerwania połączenia w każdej chwili.
+{16873}{16948}- Przyjęłam, Houston.|- Explorer, mówi Kowalski,
+{16948}{17048}- potwierdzam widok odpadów z satelity BSE.|- Uważajcie!
+{17053}{17135}- Potwierdzam, widzę...|- Dr Stone prosi o szybszy transport.
+{17139}{17180}Musimy iść!
+{17182}{17254}/Kennedy informuje, że warunki meteorologiczne|/uniemożliwiają powrót.
+{17266}{17391}/- Houston, tu Explorer. Przyjęłam.|- Explorer, dr Stone prosi o szybszy powrót do zatoki.
+{17393}{17458}- Explorer, słyszycie mnie?|- Proszę o pozwolenie na ratunek dr Stone.
+{17465}{17501}/Działaj, Kowalski.
+{17509}{17569}/Houston, tu Explorer,|/słyszycie mnie?
+{17578}{17657}- Dobra.|/- Straciliśmy Houston.
+{17676}{17741}Odepnij się.|Wynośmy się stąd w cholerę.
+{17744}{17796}- Pomóc ci, Matt?|- Nie czekaj na nas.
+{17796}{17873}- Zaciął się!|- Mamy rannego!
+{17904}{18002}/Houston, tu Explorer.|/Kowalski, infor...
+{18038}{18170}Explorer trafiony!|Explorer, słyszysz? Explorer, obiór!
+{18225}{18309}Astronauta poza strukturą!|Dr Stone jest poza strukturą!
+{18314}{18376}Dr Stone, odepnij się!|Musisz się odpiąć!
+{18400}{18460}Jeśli tego nie zrobisz,|odlecisz za daleko!
+{18465}{18513}Posłuchaj mnie!|Skup się!
+{18525}{18552}Tracę cię z widoku.
+{18556}{18599}Za kilka sekund już cię nie odnajdę.
+{18604}{18652}Musisz się odczepić!|Nie widzę cię!
+{18671}{18748}- Zrób to!|- Próbuję!
+{18755}{18902}Houston, nie widzę dr Stone.|Nie widzę dr Stone.
+{19117}{19194}/Dr Stone, słyszysz mnie?|/Powtarzam, słyszysz mnie?
+{19213}{19273}- Tak, odczepiłam się!|/- Podaj swoją pozycję.
+{19273}{19360}Nie wiem! Obracam się!|Nie mogę...
+{19364}{19460}/- Podaj swoją pozycję.|- GPS padł, nie mogę...
+{19472}{19535}/- Powiedz, co widzisz.|- Nic. Nie widzę nic!
+{19539}{19642}/- Widzisz Explorera albo ISS?|- Nie!
+{19642}{19734}/Skup się. Wykorzystaj Słońce|/lub Ziemię, podaj mi koordynaty.
+{19734}{19887}- Nie mogę oddychać!|/- Koordynaty! Dr Stone, słyszysz mnie?
+{19925}{20064}/Słyszysz mnie?|/Podaj swoją pozycję.
+{20096}{20196}/Widzisz Explorera?|/Widzisz ISS?
+{20196}{20232}/Skup się.|/Daj mi cokolwiek.
+{20232}{20287}/Wykorzystaj Słońce lub Ziemię,|/podaj mi koordynaty.
+{21160}{21210}Kowalski?|Kowalski, słyszysz mnie?
+{21270}{21359}Kowalski, widzę...|Kowalski, widzę coś.
+{21359}{21498}Widzę Explorera.|Z północy na dwunastej,
+{21525}{21613}a wahadłowiec jest na środku.
+{21649}{21793}Widzę chińską stację.|Nie, to Międzynarodowa Stacja Kosmiczna.
+{21819}{21947}ISS jest na... siódmej.
+{22143}{22193}Poruczniku Kowalski, słyszysz mnie?
+{22325}{22378}Explorer, słyszysz mnie?
+{22591}{22639}Houston, słyszysz mnie?
+{22755}{22831}Houston, tu specjalista ds. misji|Ryan Stone.
+{22831}{22886}Jestem poza strukturą|i dryfuję.
+{22886}{22918}Słyszy mnie ktoś?
+{23073}{23105}Ktokolwiek?
+{23205}{23236}Jest tam ktoś?
+{23308}{23344}Słyszy mnie ktoś?
+{23440}{23539}Proszę, usłyszcie mnie.|Proszę.
+{24037}{24104}/- Dr Stone, słyszysz mnie?|- Tak, poruczniku Kowalski.
+{24109}{24164}- Tak, poruczniku Kowalski, jestem tu.|/- Potwierdź, słyszysz mnie?
+{24169}{24272}- Tak, słyszę, jestem tutaj.|/- Poświeć latarką.
+{24272}{24332}- Latarką?|/- Bym mógł cię zobaczyć.
+{24428}{24490}Dobra.|Jestem tutaj!
+{24490}{24586}/Tam jesteś. Trzymaj się.|/Podaj swój status.
+{24598}{24701}- Nic mi nie jest.|/- Podaj swoje odczyty.
+{24706}{24852}- PSI na poziomie 3,6.|/- Podaj stan tlenu.
+{24869}{24979}Poziom tlenu spada.|I to szybko. Dziewięć...
+{24991}{25015}Nie, 8,8%.
+{25015}{25056}/- Za szybko oddychasz.|- 8,3%.
+{25056}{25119}/Spalasz za dużo tlenu.|/Nie możemy sobie na to pozwolić.
+{25123}{25202}/- Uspokójmy się, dobrze?|- Przepraszam. Tak, przyjęłam.
+{25202}{25267}/- Prawie jestem.|- Pospiesz się.
+{25294}{25401}- Zgaś latarkę, dr Stone.|- Przepraszam.
+{25509}{25605}Mam cię.|Teraz przypnę cię do siebie.
+{25660}{25728}Wiem. Nie zdawałaś sobie sprawy,|jak zniewalająco piękny jestem.
+{25740}{25823}Przestań się jednak gapić|i pomóż mi z podpięciem.
+{25943}{26056}- Mam.|- Świetnie.
+{26058}{26118}Trochę cię popchnę,|by osłonić cię przed odrzutem.
+{26123}{26190}- Nie, nie, nie.|- Nie popchnę, tylko trącę.
+{26190}{26257}Nie, nie, nie.|Nie, do cholery!
+{26444}{26500}Widzisz?|Gdzie ty, tam i ja.
+{26643}{26667}Lepiej.
+{26699}{26727}Zmiatajmy stąd.
+{26794}{26835}- Cholera.|- Wiem, co masz na myśli.
+{26871}{26926}- Cholera.|- Spalasz tlen.
+{26950}{27039}Wracamy do wahadłowca.|Odpowiada ci taki plan?
+{27039}{27101}- Kurwa!|- Przyjąłem.
+{27130}{27173}Houston, jeśli mnie słyszycie,|mówi Kowalski.
+{27173}{27221}Dr Stone i ja|wracamy do bazy.
+{27221}{27300}Każcie Explorerowi przygotować|dla nas luki? Słyszycie?
+{27336}{27396}Houston, tu Kowalski.|Słyszycie mnie?
+{27420}{27473}Houston, jeśli mnie słyszycie,|mówi Kowalski.
+{27487}{27528}- Nie słyszą nas.|- Nie wiadomo.
+{27531}{27566}Dlatego wciąż mówimy.
+{27566}{27631}Jeśli ktoś to słyszy,|może właśnie ratować ci życie.
+{27655}{27742}- Ustaw alarm na 90 minut.|- Czemu 90?
+{27746}{27830}Według Houston odpady poruszają się|z prędkością 32000 km/h.
+{27837}{27902}Jeśli weźmiemy pod uwagę naszą obecną orbitę,|to mamy jakieś 90 minut,
+{27905}{27957}zanim znów skopią nam dupska.
+{27964}{28053}- Poziom tlenu spadł do 6%.|- Dobrze.
+{28060}{28132}Można się posrać, latając tu|tak bez kontroli, nie?
+{28163}{28269}- Fakt, można.|- Spisałaś się.
+{28339}{28391}Ty też dałeś radę.
+{28482}{28538}Houston, jeśli mnie słyszycie,|mówi Kowalski.
+{28542}{28667}Nasza obecna pozycja to w przybliżeniu|900 metrów od Explorera.
+{28686}{28789}Dr Stone i ja chcielibyśmy odzyskać ciało|specjalisty ds. misji Shariffa
+{28801}{28880}i wrócić do wahadłowca.|Mam pozwolenie?
+{28957}{29024}- Przyjąłem.|- Gdzie on jest?
+{29851}{29883}Łap go!
+{29959}{30036}- Łap!|- Próbuję!
+{30142}{30194}- Ciągniesz mnie za sobą.|- Mam go!
+{30201}{30249}- Złap go jak swoją walentynkę.|- Mam go.
+{30254}{30333}Nie mogę uruchomić odrzutu,|kiedy oboje tak latacie.
+{31105}{31177}Mam nadzieję,|że macie jakieś ubezpieczenie, Houston.
+{31184}{31340}Zniszczenia są ogromne.|Szukamy ocalałych.
+{31345}{31388}Tlen spadł do dwóch procent.
+{31412}{31460}Dobra, uwaga na krawędzie!
+{31683}{31714}Tutaj!
+{32961}{33011}Houston, jeśli mnie słyszycie.|Dla potwierdzenia.
+{33023}{33107}Specjalista ds. misji dr Stone|i dowódca Matthew Kowalski
+{33115}{33186}są jedynymi ocalałymi|z STS-1-5-7.
+{33258}{33290}Przepraszam za swoją upartość.
+{33294}{33347}Powinnam przestać pracować,|kiedy tylko mi kazałeś.
+{33350}{33445}I tak doszłoby do zderzenia.|Nie mogłaś temu zapobiec.
+{33589}{33601}Tak?
+{33620}{33716}Musimy dostać się do stacji.
+{33748}{33783}Tam.
+{33819}{33887}To długa wycieczka.|Musimy wykorzystać ich kapsułę ratunkową,
+{33887}{33947}Sojuza, żeby wrócić na Ziemię.
+{33958}{33994}Zgadzasz się?
+{34018}{34102}Dr Stone, zgadzasz się?
+{34134}{34217}- Zgadzam.|- Idę przodem.
+{34285}{34309}Boże.
+{34541}{34591}Houston, jeśli mnie słyszycie.|Mówi Kowalski.
+{34608}{34687}Razem z dr Stone|zmierzamy w kierunku ISS
+{34695}{34764}i skorzystamy z ich kapsuły Sojuz|do powrotu.
+{34788}{34843}ISS, jeśli nas słyszycie...
+{34860}{34910}prosimy o misję ratunkową.
+{35246}{35337}- Tlen spada do 2%.|- Już prawie tam jesteśmy.
+{35375}{35416}Piękny, prawda?
+{35452}{35483}Co?
+{35491}{35527}Wschód słońca.
+{35567}{35610}Tego będzie mi brakowało najbardziej.
+{35738}{35797}Gdzie dom, doktor Stone?
+{35862}{35913}Ryan, gdzie twój dom?
+{35958}{35989}Dom?
+{36013}{36085}Pod nami.|Matka Ziemia.
+{36104}{36148}Gdzie rozbiłaś swój namiot?
+{36219}{36299}- Lake Zurich.|- Gdzie to jest, u diabła?
+{36387}{36442}- Illinois.|- Illinois.
+{36442}{36486}Centralna Strefa Czasowa.
+{36514}{36557}W przybliżeniu będzie...
+{36574}{36610}20:00.
+{36617}{36694}Co robią o tej porze|porządni mieszkańcy Lake Zurich?
+{36730}{36766}Nie wiem.
+{36780}{36881}- Nie dam rady, tylko cię spowalniam.|- Co byś robiła?
+{36948}{37025}Ryan, jest 20.
+{37044}{37123}Wyszłaś ze szpitala|po osiemnastogodzinnym dyżurze.
+{37143}{37178}Jedziesz do domu.
+{37262}{37294}Radio.
+{37342}{37425}- Słucham radia.|- No i proszę.
+{37430}{37454}Niech zgadnę.
+{37461}{37557}NPR? Classical?|Top forty?
+{37648}{37732}Wszystko mi jedno,|byle nie gadali. Jadę.
+{37799}{37835}Dokąd?
+{37900}{37998}- Po prostu jadę.|- Czego będzie ci brakowało?
+{38046}{38090}Czeka tam jakiś pan Stone?
+{38118}{38197}- Nie.|- Nikt wyjątkowy?
+{38274}{38360}Nikt tam nie patrzy w górę|i nie myśli o tobie?
+{38420}{38456}Ryan?
+{38631}{38665}Miałam córkę.
+{38922}{38957}Miała cztery lata.
+{39022}{39125}Bawiła się w berka.|Poślizgnęła się, uderzyła w głowę i umarła.
+{39192}{39245}Najgłupszy sposób.
+{39384}{39456}Jechałam, kiedy do mnie zadzwonili...
+{39480}{39543}Od tamtej chwili tak żyję.
+{39566}{39706}Wstaję, do pracy|i po prostu jadę.
+{40362}{40420}Tlen spada do jednego procenta.
+{40713}{40760}Mam dobre i złe wiadomości.
+{40760}{40820}Dobra jest taka,|że jesteśmy pięć minut drogi od ISS
+{40825}{40873}i wiem, gdzie Rosjanie trzymają wódkę.
+{40885}{40945}I dobrze, bo jadę na oparach.
+{40971}{41099}Zła natomiast jest taka,|że zabraknie mi 10 minut do rekordu Anatolija i...
+{41123}{41170}- Co?|- Niskie ciśnienie zbiornika z tlenem.
+{41235}{41310}- Masz trochę tlenu w kombinezonie.|- Kumam.
+{41314}{41357}Musisz brać łyczki, nie hausty.
+{41381}{41463}Wino, nie piwo.|Sącz, Ryan.
+{41482}{41549}Houston, widzimy ISS.
+{41556}{41645}Stację ewakuowano,|bo brakuje pierwszego Sojuza.
+{41652}{41748}Na drugim widać uszkodzenia,|spadochron otwarty.
+{41760}{41849}Wykorzystanie jej w celu powrotu|jest niemożliwe.
+{41868}{41911}Nie powinniśmy zawrócić?|Dryfujemy.
+{41919}{41978}Jeszcze nie.|Nie żartowałem z tymi oparami.
+{41983}{42043}Zostało nam jeszcze na jeden|albo dwa odrzuty.
+{42048}{42082}Jeśli mamy szczęście.
+{42386}{42412}Szykuj się.
+{42647}{42676}Cel.
+{42691}{42719}Pal!
+{42878}{42961}- Hamuj!|- Nie mogę, zbiornik pusty.
+{42961}{43021}Walniemy mocno,|łap to, co się da!
+{43312}{43383}Co robić?!
+{43630}{43666}Ryan!
+{43757}{43841}Lina pękła, oderwałam się!
+{43846}{43882}Łap się czegoś!
+{43937}{43973}Czegokolwiek!
+{44364}{44395}Ryan!
+{44426}{44482}- Daj rękę!|- Idę.
+{44486}{44565}Już, już.
+{44623}{44709}- Kurwa!|- Nie...
+{44741}{44776}Mam cię.
+{44999}{45023}Mam.
+{45095}{45172}Trzymaj się,|a ja zacznę cię wciągać.
+{45174}{45251}- Pani doktor.|- Trzymaj mocno, wciągnę cię.
+{45258}{45302}- Ryan, posłuchaj.|- Wciągnę cię.
+{45302}{45326}- Musisz mnie puścić.|- Nie.
+{45330}{45390}Liny są zbyt luźne.|Ciągnę cię za sobą.
+{45397}{45445}Puść mnie albo zginiemy oboje.
+{45450}{45525}Nigdzie cię nie puszczę.
+{45661}{45721}- Ryan, puść.|- Nie.
+{45747}{45800}Nigdzie cię nie puszczę.
+{45805}{45887}- Nie masz na to wpływu.|- Nie rób tego.
+{45891}{46006}Nie rób tego, proszę.
+{46018}{46078}Matt, proszę.
+{46150}{46186}Dasz radę, Ryan.
+{46222}{46246}Nie!
+{46766}{46848}Prawie cię złapałam.
+{47224}{47260}Ryan, słyszysz mnie?
+{47328}{47457}- Słyszysz?|- Zniknął alarm tlenu.
+{47459}{47503}Musisz dostać się na stację.
+{47527}{47567}Widzisz śluzę?
+{47785}{47862}Ryan, słyszysz?
+{47917}{47958}Szukaj jej.
+{48020}{48080}Nad tobą, obok modułu Zarya.
+{48171}{48231}- Widzisz?|- Tak.
+{48236}{48356}- Widzę.|- Tam masz iść.
+{48375}{48423}Masz zawroty głowy, prawda?
+{48430}{48579}Oddychasz dwutlenkiem węgla.|Tracisz świadomość.
+{48586}{48646}Musisz dostać się do stacji.
+{48677}{48804}Drugi Sojuz jest uszkodzony,|ale nadaje się na niedzielną przejażdżkę.
+{48816}{48857}Niedzielną przejażdżkę?
+{48864}{48979}Spójrz na zachód.|Widzisz kropkę?
+{48984}{49044}- To chińska stacja.|- Tak.
+{49049}{49107}Przejmiesz Sojuza i dojedziesz tam.
+{49135}{49214}Chińska szalupa to Shenzhou.
+{49236}{49298}- Nie prowadziłam Shenzhou.|- To bez znaczenia.
+{49306}{49365}Mają identyczny protokół|jak Sojuz.
+{49481}{49581}- Prowadziłaś Sojuza?|- Na symulatorze.
+{49600}{49732}- To masz pojęcie.|- Rozbiłam go.
+{49737}{49787}To symulator, po to go stworzono.
+{49864}{49931}Ale rozwalałam go za każdym razem.
+{49948}{49991}Skieruj to cholerstwo na Ziemię.
+{49991}{50039}To nie fizyka jądrowa.
+{50051}{50142}Jak dobrze pójdzie, jutro o tej porze|będziesz w Lake Zurich z niesamowitą historią.
+{50166}{50202}Słyszysz?
+{50243}{50329}- Ryan, słyszysz?|- Przejmę Sojuza i jadę po ciebie.
+{50337}{50377}- Nie.|- Idę po ciebie.
+{50382}{50437}- Nie, będę za daleko.|- Idę po ciebie.
+{50442}{50492}Ten statek już odpłynął.
+{50524}{50583}Ryan, musisz nauczyć się odpuszczać.
+{50612}{50672}Chcę usłyszeć, że dasz radę.
+{50723}{50770}Powiedz to.
+{50811}{50910}- Dam radę.|- No to do dzieła.
+{50931}{50998}Nazwać dziewczynę Ryan?
+{51034}{51125}- Ojciec chciał syna.|- Zbliżasz się do śluzy?
+{51156}{51226}- Jeszcze nie.|- To idź.
+{51245}{51300}Skoro dzieli nas taka odległość,
+{51305}{51379}- podobam ci się, nie?|- Co?
+{51403}{51475}Ludzie mówią,|że mam piękne, niebieskie oczy.
+{51523}{51650}Masz piękne...|niebieskie oczy.
+{51655}{51698}Mam brązowe oczy.
+{51782}{51842}- Powiem ci coś zabawnego.|- Co?
+{51849}{51952}Pobiję rekord Anatolija|na długi czas.
+{51952}{52024}Nie, idę po ciebie.
+{52096}{52151}- Boże.|- Co?
+{52307}{52374}Powinnaś zobaczyć słońce nad Gangesem.
+{52427}{52475}Niesamowite.
+{58838}{58882}Gdzie jesteś?
+{58886}{58965}Tutaj jesteś.
+{59224}{59268}Matt, mówi Ryan.
+{59339}{59399}Matt, mówi Ryan.
+{59476}{59560}Matt, jestem w stacji.|Słyszysz mnie?
+{59714}{59754}Matt, mów do mnie.
+{59766}{59826}Podaj mi swoją pozycję.
+{59850}{59936}Gdzie jesteś?|Co widzisz?
+{60049}{60145}Gęba ci się nie zamyka od przylądka Canaveral,|a teraz milczysz?
+{60147}{60243}Mów cokolwiek!
+{60394}{60538}Opowiedz o Mardi Gras.|Opowiedz o tym owłosionym typie.
+{60545}{60586}Co się wtedy stało?
+{60591}{60646}Co spotkało tego owłosionego?
+{60797}{60845}Mów do mnie.
+{60936}{60979}Proszę.
+{61346}{61382}Houston, jeśli mnie słyszycie...
+{61445}{61545}Specjalista Ryan Stone|nadaje z ISS.
+{61593}{61704}Stracono komunikację|z dowódcą Matthew Kowalskim.
+{61775}{61828}Nie odpowiada.
+{61871}{61927}Nie widać go.
+{61991}{62171}Ja, Ryan Stone, jestem jedyną ocalałą|z STS-1-5-7.
+{62512}{62559}Co teraz?
+{64940}{65043}Gdzie zasilanie?
+{65127}{65223}Jak na treningu.|Odpięcie.
+{65240}{65326}Odpięcie.|Czerwona.
+{65530}{65616}Gdzie to jest?
+{65777}{65832}Pamiętam to.
+{66194}{66261}Nie mam czterech minut.
+{66281}{66305}Przechodzimy na ręczne.
+{66328}{66357}Dalej.
+{66364}{66520}Aktywacja, odpięcie.
+{67122}{67172}Siedem minut na wydostanie się stąd.
+{67333}{67381}Dobra.
+{67762}{67798}Co?
+{68021}{68076}Nie!
+{69220}{69263}Dobrze.
+{69275}{69337}Dobrze.
+{69409}{69433}No dalej.
+{70297}{70320}Super.
+{71423}{71500}Czyste niebo|z ryzykiem odpadów satelitów.
+{73267}{73339}Oderwiemy się i do domu.|Bułka z masłem.
+{74106}{74147}Co tu mamy?
+{74161}{74202}Dobra.
+{74456}{74492}Kurna.
+{74663}{74711}Dalej.
+{74758}{74782}Dobra.
+{76969}{77005}Nienawidzę kosmosu.
+{77485}{77525}Zamknij się.
+{77983}{78014}Dobrze.
+{78122}{78165}Stabilizujemy.
+{78592}{78655}Jedźmy na chińską stację.
+{78679}{78714}Houston, jeśli mnie słyszycie,
+{78719}{78854}Tiangong znajduje się|100 mil na zachód.
+{78863}{79029}Odchył trzynaście stopni od kursu.|Poprawię trajektorię.
+{79721}{79817}Uruchomię S-Ka-Dae|za pięć... cztery...
+{79827}{79885}trzy... dwie... jedną.
+{80239}{80292}Co się dzieje?
+{80366}{80395}Jeden.
+{80738}{80776}No weź.
+{80872}{80927}To jakiś żart.
+{80937}{80975}To jakiś żart!
+{81091}{81136}Nie, ty chuju...
+{81373}{81486}Houston, tu doktor Ryan Stone.
+{81498}{81594}Mówię z Sojuza TMA-1-4-M.
+{81606}{81700}Nie mam paliwa i dryfuję.
+{81747}{81836}Houston. Mówi dr Ryan Stone.
+{81851}{81875}Słyszycie mnie?
+{81987}{82098}Houston. Mówi Ryan Stone.|Słyszycie mnie?
+{82179}{82294}Houston, mówi specjalista...|ds. misji Ryan Stone, słyszycie?
+{82332}{82404}Houston, Houston,|potwierdźcie.
+{82409}{82496}Houston, przechodzicie na|częstotliwość A.M.
+{82531}{82555}Słyszycie?
+{82579}{82659}To chińska stacja?|To Tiangong? Potwierdźcie.
+{82695}{82802}Mayday, możecie potwierdzić?|Mayday, mayday, mayday.
+{82834}{82946}Tak, tak. Mayday, mayday.|Mayday, mayday.
+{83090}{83157}To twoje...|Imię?
+{83162}{83236}Aningaaq to twoje... imię?
+{83277}{83296}Mayday!
+{83301}{83368}Nie jestem mayday.|Jestem Stone.
+{83373}{83467}Dr Ryan Stone.|Potrzebuję pomocy...
+{83560}{83584}To psy.
+{83747}{83790}To z Ziemi.
+{84092}{84212}Aningaaq, poproś psa, żeby szczeknął.
+{84260}{84370}Twoje psy.
+{85445}{85493}Umrę, Aningaaq.
+{85550}{85636}Wiem, wszyscy umrzemy.|Każdy to wie.
+{85641}{85692}Ale ja umrę dzisiaj.
+{85756}{85831}To zabawne wiedzieć...
+{85907}{85974}Ale nadal się boję.
+{85991}{86034}Naprawdę mocno.
+{86102}{86197}Nikt za mną nie zapłacze.|Nikt sie nie pomodli.
+{86262}{86305}Zapłaczesz za mną?
+{86341}{86396}Zmówisz za mnie modlitwę?
+{86408}{86452}A może już za późno?
+{86557}{86631}Prawdę mówiąc nigdy w życiu|się nie modliłam.
+{86687}{86732}Nikt mnie nie nauczył.
+{86826}{86886}Nikt mnie nie nauczył.
+{87156}{87190}Dziecko.
+{87492}{87542}Jest tam dziecko?
+{87612}{87662}Śpiewasz kołysankę?
+{87734}{87777}Słodkie.
+{87830}{87881}Tez śpiewałam dziecku.
+{87974}{88024}Mam nadzieję, że wkrótce ją zobaczę.
+{89712}{89784}To piękne, Aningaaq.|Śpiewaj tak dalej.
+{89835}{89895}Ukołysz mnie do snu.
+{89935}{90034}Śpiewaj, śpiewaj.
+{90738}{90784}Nie!
+{91817}{91865}Sprawdź zegarek.|Trzynaście godzin i 11 minut.
+{91873}{91944}Powiedz Anatolijowi, że go pokonałem.
+{91961}{92009}- Ponuro tu, co?|- Jakim cudem...?
+{92014}{92076}- Uwierz, niezła historia.|- Ale jak...?
+{92141}{92179}Lepiej.
+{92191}{92275}Odnalazłem trochę dodatkowej mocy.
+{92283}{92342}Nie rozpraszałaś mnie,|więc było łatwiej.
+{92342}{92438}Cieszę się, że cię widzę.|Myślałem, że nie dasz rady.
+{92450}{92517}- Znalazłaś wódkę?|- Ale ty...
+{92534}{92601}Nie powiedziałeś mi, gdzie jest...
+{92740}{92824}Za Anatolija.|Na zdrowie.
+{92944}{93055}Dobra, spadajmy stąd.
+{93107}{93215}Chińska stacja jest sto mil stąd.|Spacerek.
+{93222}{93258}- Nie damy rady.|- Damy..
+{93270}{93299}Nie ma paliwa, próbowałam.
+{93306}{93378}- Zawsze da się coś zrobić.|- Próbowałam wszystkiego.
+{93378}{93429}A silników hamujących?
+{93433}{93486}- Służą do lądowania...|- Lądowanie to startowanie.
+{93489}{93541}Jedno i to samo.|Nie uczyli cię na treningu?
+{93546}{93594}Nigdy nie wylądowałam, mówiłam.
+{93596}{93656}- Ale wiesz o tym.|- Ale zawsze się rozbijałam.
+{93664}{93716}Chcesz wrócić czy zostać tutaj?
+{93795}{93839}Rozumiem, miło tu nawet.
+{93915}{94083}Możesz wyłączyć systemy,|światła...
+{94102}{94162}zamknąć oczy i odciąć się.
+{94186}{94229}Nikt nie zrobi ci tutaj krzywdy.
+{94241}{94277}Jest bezpiecznie.
+{94361}{94428}Ale gdzie sens życia?
+{94536}{94632}Twoje dziecko umarło.|Gorzej już nie będzie.
+{94692}{94754}Nadal chodzi o to, co zrobisz.
+{94783}{94862}Jeśli zdecydujesz się działać,|to trzeba zacząć.
+{94886}{94941}Usiąść, cieszyć się podróżą.
+{94958}{95045}Postaw nogi na ziemi|i zacznij wreszcie żyć.
+{95049}{95140}- Jak się tu dostałeś?|- Mówiłem ci, niesamowita historia.
+{95152}{95212}- Ryan.|- Co?
+{95217}{95272}Czas wracać do domu.
+{96315}{96346}Lądowanie...
+{96399}{96502}Lądowanie to startowanie.
+{96514}{96545}Powiedziałam...
+{96881}{96948}Lądowanie to zielona.
+{97282}{97370}Lądowanie, dobra.
+{97387}{97504}Silniki łagodnego lądowania|włączają się trzy metry przed lądowaniem.
+{97574}{97624}Spryciarz z ciebie, Matt.
+{97636}{97775}Muszę pozbyć się B.O.|i modułu silnika.
+{98034}{98070}Separacja trzech modułów.
+{98101}{98125}Teraz.
+{98528}{98576}Houston, najsprytniejsza część.
+{98588}{98727}Sojuz musi myśleć,|że jesteśmy trzy metry nad Ziemią.
+{98826}{98950}Matt, czas się odwdzięczyć|za wysłuchiwanie twojej gadaniny.
+{98962}{99005}Musisz mi pomóc.
+{99037}{99166}Zobaczysz umorusaną dziewczynkę|z brązowymi włosami.
+{99180}{99260}Nie lubi się czesać.
+{99284}{99317}Ma na imię Sarah.
+{99343}{99463}Możesz jej przekazać,|że mama znalazła jej czerwony but?
+{99492}{99542}Martwiła się tym, Matt.
+{99559}{99602}A leżał pod łóżkiem.
+{99693}{99813}Uściskaj ją i daj całusa ode mnie.|Powiedz, że mama tęskni.
+{99833}{99981}Powiedz jej, że jest moim aniołkiem.|Napawa mnie dumą.
+{100101}{100175}Powiedz jej jeszcze, że nie wymiękam.
+{100326}{100372}I że ją kocham, Matt.
+{100398}{100454}Powiedz jej, że kocham ją|ponad życie.
+{100523}{100566}Zrobisz to dla mnie?
+{100621}{100662}Potwierdzasz?
+{100717}{100753}Jedziemy.
+{101624}{101684}Tracisz wysokość, Tiangong.
+{101748}{101835}Będziesz upadać i zetkniesz się|z atmosferą.
+{101851}{101923}Ale nie beze mnie, bo jesteś moim|ostatnim środkiem lokomocji.
+{102014}{102050}Czekaj.
+{102221}{102245}5...
+{102273}{102302}4...
+{102328}{102357}3...
+{102386}{102424}Dosyć jazdy.
+{102468}{102508}Wracamy do domu.
+{102623}{102695}Gotowa.|Dobra.
+{102724}{102748}Gotowa.
+{102918}{103041}Gdzie jesteś?|45, 90, 180.
+{103870}{103894}Dobrze.
+{103918}{103954}Cholera.
+{103985}{104088}W dół.|Chodź do mamy.
+{106030}{106085}Cholera!
+{106318}{106400}No dalej, Shenzhou.
+{106428}{106529}Kurwa! Tędy. Shenzhou.
+{106704}{106778}Gdzie jesteś?|Co to?
+{107917}{108001}W Sojuzie tu się włącza moc.
+{108085}{108159}Odłączanie.
+{108183}{108227}Ene, due...
+{108231}{108339}Nie brzmi to najlepiej.|Like, fake.
+{108387}{108426}No hablo chino.
+{108454}{108509}Toba, borba.
+{108550}{108613}Dobra.
+{108812}{108857}Houston. Houston,|jeśli mnie słyszycie.
+{108864}{108955}Specjalista ds. misji Ryan Stone|zgłasza się z Shenzhou.
+{108965}{109011}Oddokowałam się z Tiangong...
+{109123}{109190}Mam złe przeczucia|co do tej misji.
+{109246}{109293}Przypomnij mi opowieść, Houston...
+{109353}{109449}Zresztą nieważne.
+{109509}{109588}Robi się gorąco.
+{109656}{109751}Są tylko dwa wyjścia.
+{109756}{109867}Albo spadnę w jednym kawałku|z niesamowitą historią,
+{109883}{109938}albo spalę się za 10 minut.
+{109974}{110082}Co ma być, będzie!
+{110262}{110298}Bo tak czy inaczej...
+{110353}{110408}to będzie niezła jazda.
+{110468}{110509}Jestem gotowa.
+{113532}{113657}/Shenzhou, tu Houston.|/Przechodzę na częstotliwość FM.
+{113693}{113753}/Radary wykryły cię|/na trajektorii powrotu.
+{113755}{113815}/Jeśli słyszysz, potwierdź.
+{114316}{114436}/Mówi Houston.
+{114551}{114599}/Proszę podać tożsamość.
+{114623}{114702}/Wysłaliśmy misję ratunkową.
+{114707}{114760}/Jest już w drodze.
+{119128}{119162}Dziękuję.
+{120713}{120780}.:: GrupaHatak.pl ::.
+{120780}{120876}Tłumaczyli: rarehare i józek
+{120924}{120996}.::  ::.|
