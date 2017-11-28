@@ -1,5 +1,6 @@
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Scanner;
 
@@ -15,23 +16,34 @@ public class PasswordChecker {
     }
 
     public void deletePasswordsLen(int len) {
-        for(String pass : passwords) {
-            if (pass.length() != len) {
-                passwords.remove(pass);
+//        for(String pass : passwords) {
+//            if (pass.length() != len) {
+//                passwords.remove(pass);
+//            }
+//        }
+        for (Iterator<String> iterator = passwords.iterator(); iterator.hasNext();) {
+            String value = iterator.next();
+            if (value.length() != len) {
+                iterator.remove();
             }
         }
     }
 
     public void deletePasswordsLev(String pierwszy, Integer distance) {
-        for(String pass : passwords) {
-            int dist = Levenshtein.levenshtein(pierwszy, pass);
+//        for(String pass : passwords) {
+//            int dist = Levenshtein.levenshtein(pierwszy, pass);
+//            if (dist != distance) {
+//                passwords.remove(pass);
+//            }
+//        }
+        for (Iterator<String> iterator = passwords.iterator(); iterator.hasNext();) {
+            String value = iterator.next();
+            int dist = Levenshtein.levenshtein(pierwszy, value);
             if (dist != distance) {
-                passwords.remove(pass);
+                iterator.remove();
             }
         }
     }
-
-
 
     public LinkedList<String> getPasswords() {
         return passwords;

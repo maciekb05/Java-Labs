@@ -7,12 +7,15 @@ import java.net.UnknownHostException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
+        PasswordChecker checker = new PasswordChecker();
+        checker.readPasswords("./src/fetch.txt");
+
         Socket echoSocket = null;
         PrintWriter out = null;
         BufferedReader in = null;
 
         try {
-            echoSocket = new Socket("szymon.ia.agh.edu.pl", 3000);
+            echoSocket = new Socket("192.168.0.1", 3002);
             out = new PrintWriter(echoSocket.getOutputStream(), true);
             in = new BufferedReader(new InputStreamReader(echoSocket.getInputStream()));
         } catch (UnknownHostException e) {
@@ -27,9 +30,13 @@ public class Main {
         String userInput;
 
         System.out.println("Type a message: ");
-        while ((userInput = stdIn.readLine()) != null) {
-            out.println(userInput);
-            System.out.println("echo: " + in.readLine());
+        out.println("");
+        Integer len = Integer.parseInt(in.readLine());
+        checker.deletePasswordsLen(len);
+        System.out.println("echo: " + in.readLine());
+
+        for (String pass : checker.getPasswords()) {
+            System.out.println(pass);
         }
 
         out.close();
