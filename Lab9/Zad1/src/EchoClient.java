@@ -28,6 +28,7 @@ public class EchoClient {
 
         System.out.println("Type a message: ");
         while ((userInput = stdIn.readLine()) != null) {
+            if(userInput.equals("end")){break;}
             out.println(userInput);
             System.out.println("echo: " + in.readLine());
         }

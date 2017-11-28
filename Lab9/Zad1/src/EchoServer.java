@@ -25,6 +25,7 @@ public class EchoServer {
         String inputLine;
 
         while ((inputLine = in.readLine()) != null) {
+            if(inputLine.equals("end")){break;}
             out.println(inputLine);
         }
         out.close();
