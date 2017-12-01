@@ -21,7 +21,7 @@ public class Levenshtein {
 	   {
 	      for (j=1; j<=n; j++)
 	      {
-	           if (Character.toLowerCase(s.charAt(i-1)) == Character.toLowerCase(t.charAt(j-1)))
+	           if (s.charAt(i-1) == t.charAt(j-1))
 	              cost = 0;
 	           else
 	              cost = 1;

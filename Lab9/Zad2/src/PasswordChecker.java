@@ -46,6 +46,24 @@ public class PasswordChecker {
         }
     }
 
+    public void deletePasswordsLetters(String letters) {
+        for (Iterator<String> iterator = passwords.iterator(); iterator.hasNext();) {
+            String value = iterator.next();
+            for(int i=0; i<value.length(); i++){
+                Integer counter = 0;
+                for(int j=0; j<letters.length(); j++){
+                    if(Character.toLowerCase(value.charAt(i)) != Character.toLowerCase(letters.charAt(j))) {
+                        counter++;
+                    }
+                }
+                if(counter == letters.length()) {
+                    iterator.remove();
+                    break;
+                }
+            }
+        }
+    }
+
     public LinkedList<String> getPasswords() {
         return passwords;
     }

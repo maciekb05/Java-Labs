@@ -16,7 +16,7 @@ public class Main {
             BufferedReader in = null;
 
             try {
-                echoSocket = new Socket("192.168.0.1", 3002);
+                echoSocket = new Socket("galdos.kis.agh.edu.pl", 3002);
                 out = new PrintWriter(echoSocket.getOutputStream(), true);
                 in = new BufferedReader(new InputStreamReader(echoSocket.getInputStream()));
             } catch (UnknownHostException e) {
