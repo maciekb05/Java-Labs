@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.net.SocketException;
 
 public class EchoServer {
     public static void main(String[] args) {
@@ -23,6 +24,9 @@ public class EchoServer {
             while ((inputLine = in.readLine()) != null) {
                 out.println("echo: " + inputLine);
             }
+        } catch (SocketException ex) {
+            System.out.println("Wysłano żądanie zakończenia");
+            System.out.println(ex.getMessage());
         } catch (IOException ex) {
             ex.printStackTrace();
         }
