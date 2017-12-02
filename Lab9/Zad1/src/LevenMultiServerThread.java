@@ -6,6 +6,7 @@ import java.net.Socket;
 
 public class LevenMultiServerThread extends Thread {
     private Socket socket = null;
+    private String password = "ZyGfRyD";
 
     public LevenMultiServerThread(Socket socket) {
         super("EchoMultiServerThread");
@@ -19,17 +20,18 @@ public class LevenMultiServerThread extends Thread {
             BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
         ) {
             String inputLine, outputLine;
+            Integer output;
 
-            while ((inputLine = in.readLine()) != null) {
-                try{sleep(1000);} catch (InterruptedException ex) {};
-                outputLine = "echo: " + inputLine;
-                out.println(outputLine);
-                if (outputLine.equals("Bye"))
-                    break;
-            }
+            inputLine = in.readLine();
+            inputLine = inputLine.substring(13,inputLine.length());
+            System.out.println(inputLine);
+            sleep(1000);
+            output = Levenshtein.levenshtein(inputLine, password);
+            outputLine = output.toString();
+            out.println(outputLine);
 
             socket.close();
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }

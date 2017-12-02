@@ -14,9 +14,9 @@ public class Main {
             Socket echoSocket = null;
             PrintWriter out = null;
             BufferedReader in = null;
-
+            //galdos.kis.agh.edu.pl
             try {
-                echoSocket = new Socket("galdos.kis.agh.edu.pl", 3002);
+                echoSocket = new Socket("localhost", 3002);
                 out = new PrintWriter(echoSocket.getOutputStream(), true);
                 in = new BufferedReader(new InputStreamReader(echoSocket.getInputStream()));
             } catch (UnknownHostException e) {
@@ -35,6 +35,10 @@ public class Main {
             Integer distance = Integer.parseInt(in.readLine());
             System.out.println(distance);
             checker.deletePasswordsLev(firstPass, distance);
+            if(distance == 0) {
+                System.out.println("Password found: "+firstPass);
+                break;
+            }
 
             out.close();
             in.close();
