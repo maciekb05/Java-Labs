@@ -9,8 +9,8 @@ import java.net.SocketException;
 public class EchoServer {
     public static void main(String[] args) {
         int portNumber = 3002;
-
-        try {
+        //Try with resources for closing sockets and streams
+        try (
             //Creating a serverSocket
             ServerSocket serverSocket = new ServerSocket(portNumber);
             //Accepting client socket
@@ -19,7 +19,7 @@ public class EchoServer {
             PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
             //Creating BufferedReader to get data from client
             BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
-
+        ) {
             String inputLine;
             while ((inputLine = in.readLine()) != null) {
                 out.println("echo: " + inputLine);
