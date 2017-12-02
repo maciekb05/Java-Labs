@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa2013a5-5a88-465c-961b-1c3b5e455817" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Zad1/Main.class" afterPath="$PROJECT_DIR$/out/production/Zad1/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LevenMultiServerThread.java" afterPath="$PROJECT_DIR$/src/LevenMultiServerThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -379,7 +376,7 @@
       <workItem from="1511888132310" duration="1147000" />
       <workItem from="1511903273420" duration="78000" />
       <workItem from="1512143509421" duration="79000" />
-      <workItem from="1512214949795" duration="1184000" />
+      <workItem from="1512214949795" duration="1248000" />
     </task>
     <task id="LOCAL-00001" summary="Lab9 zadanie1">
       <created>1511553209592</created>
@@ -430,11 +427,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512215197128</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="LevenServer works">
+      <created>1512216158426</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1512216158426</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16908000" />
+    <option name="totallyTimeSpent" value="16972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -482,7 +486,8 @@
     <MESSAGE value="Final version, working on simulation, but not tested on server" />
     <MESSAGE value="Added multiThreadedServer and try with resources statement" />
     <MESSAGE value="Init added levenServer for testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init added levenServer for testing" />
+    <MESSAGE value="LevenServer works" />
+    <option name="LAST_COMMIT_MESSAGE" value="LevenServer works" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
