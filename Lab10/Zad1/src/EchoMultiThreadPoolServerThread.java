@@ -4,10 +4,10 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-public class EchoMultiServerThread extends Thread {
-    private Socket socket = null;
+public class EchoMultiThreadPoolServerThread extends Thread {
+    private Socket socket;
 
-    public EchoMultiServerThread(Socket socket) {
+    EchoMultiThreadPoolServerThread(Socket socket) {
         super("EchoMultiServerThread");
         this.socket = socket;
     }
@@ -16,12 +16,12 @@ public class EchoMultiServerThread extends Thread {
 
         try (
             PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
-            BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+            BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()))
         ) {
             String inputLine, outputLine;
 
             while ((inputLine = in.readLine()) != null) {
-                try{sleep(1000);} catch (InterruptedException ex) {};
+                try{sleep(1000);} catch (InterruptedException ex) {ex.printStackTrace();}
                 outputLine = "echo: " + inputLine;
                 out.println(outputLine);
                 if (outputLine.equals("Bye"))
