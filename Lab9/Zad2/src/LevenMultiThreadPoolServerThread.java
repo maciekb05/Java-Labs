@@ -13,7 +13,6 @@ public class LevenMultiThreadPoolServerThread extends Thread {
     }
 
     public void run() {
-
         try (
             PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
             BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()))
@@ -24,7 +23,7 @@ public class LevenMultiThreadPoolServerThread extends Thread {
             inputLine = in.readLine();
             inputLine = inputLine.substring(13,inputLine.length());
             System.out.println(inputLine);
-            sleep(1000);
+            sleep(400);
             output = Levenshtein.levenshtein(inputLine, password);
             if(output == 0) {
                 outputLine = "ab132ndb89";

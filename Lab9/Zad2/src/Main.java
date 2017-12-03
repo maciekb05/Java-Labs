@@ -8,7 +8,7 @@ public class Main {
 
     private static String tryPassword(String query) {
         String answer = null;
-        try (
+        try ( //"glados.kis.agh.edu.pl" "localhost" for my server
                 Socket echoSocket = new Socket("glados.kis.agh.edu.pl", 3002);
                 PrintWriter out = new PrintWriter(echoSocket.getOutputStream(), true);
                 BufferedReader in = new BufferedReader(new InputStreamReader(echoSocket.getInputStream()))
