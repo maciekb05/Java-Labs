@@ -3,11 +3,11 @@ import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
 
-public class LevenMultiServerThread extends Thread {
-    private Socket socket = null;
-    private String password = "ZyGfRyD";
+public class LevenMultiThreadPoolServerThread extends Thread {
+    private Socket socket;
+    private String password = "LwoWianIn";
 
-    public LevenMultiServerThread(Socket socket) {
+    LevenMultiThreadPoolServerThread(Socket socket) {
         super("EchoMultiServerThread");
         this.socket = socket;
     }
@@ -16,7 +16,7 @@ public class LevenMultiServerThread extends Thread {
 
         try (
             PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
-            BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+            BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()))
         ) {
             String inputLine, outputLine;
             Integer output;
@@ -24,9 +24,14 @@ public class LevenMultiServerThread extends Thread {
             inputLine = in.readLine();
             inputLine = inputLine.substring(13,inputLine.length());
             System.out.println(inputLine);
-            sleep(100);
+            sleep(1000);
             output = Levenshtein.levenshtein(inputLine, password);
-            outputLine = output.toString();
+            if(output == 0) {
+                outputLine = "ab132ndb89";
+            }
+            else {
+                outputLine = output.toString();
+            }
             out.println(outputLine);
 
             socket.close();

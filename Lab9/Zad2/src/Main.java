@@ -5,14 +5,13 @@ import java.io.PrintWriter;
 import java.net.Socket;
 
 public class Main {
-    private static String host = "glados.kis.agh.edu.pl";
 
-    static String tryPassword(String query) {
+    private static String tryPassword(String query) {
         String answer = null;
         try (
-                Socket echoSocket = new Socket(host, 3002);
+                Socket echoSocket = new Socket("glados.kis.agh.edu.pl", 3002);
                 PrintWriter out = new PrintWriter(echoSocket.getOutputStream(), true);
-                BufferedReader in = new BufferedReader(new InputStreamReader(echoSocket.getInputStream()));
+                BufferedReader in = new BufferedReader(new InputStreamReader(echoSocket.getInputStream()))
                 ) {
             out.println(query);
             answer = in.readLine();
@@ -68,7 +67,7 @@ public class Main {
         System.out.println("Znaleziono najlepsze dopasowanie: "+foundPass+" musisz zmienić "+foundDist+" znaków na wielkie");
         String currentPassword = foundPass;
         currentPassword = currentPassword.toLowerCase();
-        int distForPastPass = 0;
+        int distForPastPass;
         int distForCurrentPass = 0;
         Integer iterations = 0;
 
@@ -77,6 +76,7 @@ public class Main {
             System.out.println(currentPassword);
             String returned = tryPassword("LOGIN szymon;" + currentPassword);
             if(returned.length()==10){
+                System.out.println("ID: "+ returned);
                 break;
             }
             try {
