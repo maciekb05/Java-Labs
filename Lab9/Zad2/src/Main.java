@@ -3,9 +3,25 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.Socket;
-import java.net.UnknownHostException;
 
 public class Main {
+    private static String host = "glados.kis.agh.edu.pl";
+
+    static String tryPassword(String query) {
+        String answer = null;
+        try (
+                Socket echoSocket = new Socket(host, 3002);
+                PrintWriter out = new PrintWriter(echoSocket.getOutputStream(), true);
+                BufferedReader in = new BufferedReader(new InputStreamReader(echoSocket.getInputStream()));
+                ) {
+            out.println(query);
+            answer = in.readLine();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return answer;
+    }
+
     public static void main(String[] args) throws IOException {
         String alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
         String distances = "";
@@ -14,37 +30,17 @@ public class Main {
         String foundPass = null;
         Integer foundDist = 0;
 
-        //Chenge localhost to galdos.kis.agh.edu.pl
-        String host = "localhost";
-
         Integer max = 0;
         for(int i = 0; i < alphabet.length(); ++i) {
-            Socket echoSocket = null;
-            PrintWriter out = null;
-            BufferedReader in = null;
-
-            try {
-                echoSocket = new Socket(host, 3002);
-                out = new PrintWriter(echoSocket.getOutputStream(), true);
-                in = new BufferedReader(new InputStreamReader(echoSocket.getInputStream()));
-            } catch (UnknownHostException e) {
-                System.err.println("Don't know about host.");
-                System.exit(1);
-            } catch (IOException e) {
-                System.err.println("Couldn't get I/O for the connection.");
-                System.exit(1);
-            }
-
-            out.println("LOGIN szymon;" +  alphabet.substring(i,i+1));
-            Integer distance = Integer.parseInt(in.readLine());
+            String query = "LOGIN szymon;" +  alphabet.substring(i,i+1);
+            String answer = tryPassword(query);
+            System.out.println(query);
+            System.out.println(answer);
+            Integer distance = Integer.parseInt(answer);
             distances += distance;
             if(distance > max) {
                 max = distance;
             }
-
-            out.close();
-            in.close();
-            echoSocket.close();
         }
         checker.deletePasswordsLen(max);
 
@@ -58,24 +54,8 @@ public class Main {
 
         Integer min = max;
         for(int i = 0; i<checker.getPasswords().size(); i++) {
-            Socket echoSocket = null;
-            PrintWriter out = null;
-            BufferedReader in = null;
-
-            try {
-                echoSocket = new Socket(host, 3002);
-                out = new PrintWriter(echoSocket.getOutputStream(), true);
-                in = new BufferedReader(new InputStreamReader(echoSocket.getInputStream()));
-            } catch (UnknownHostException e) {
-                System.err.println("Don't know about host.");
-                System.exit(1);
-            } catch (IOException e) {
-                System.err.println("Couldn't get I/O for the connection.");
-                System.exit(1);
-            }
-
-            out.println("LOGIN szymon;" +  checker.getPasswords().get(i));
-            Integer distance = Integer.parseInt(in.readLine());
+            String answer = tryPassword("LOGIN szymon;" +  checker.getPasswords().get(i));
+            Integer distance = Integer.parseInt(answer);
             if(distance == 0) {
                 System.out.println("Hasło to: "+checker.getPasswords().get(i));
             }
@@ -84,10 +64,6 @@ public class Main {
                 foundPass = checker.getPasswords().get(i);
                 foundDist = distance;
             }
-
-            out.close();
-            in.close();
-            echoSocket.close();
         }
         System.out.println("Znaleziono najlepsze dopasowanie: "+foundPass+" musisz zmienić "+foundDist+" znaków na wielkie");
         String currentPassword = foundPass;
@@ -97,29 +73,17 @@ public class Main {
         Integer iterations = 0;
 
         while(true) {
-            Socket echoSocket = null;
-            PrintWriter out = null;
-            BufferedReader in = null;
-
-            try {
-                echoSocket = new Socket(host, 3002);
-                out = new PrintWriter(echoSocket.getOutputStream(), true);
-                in = new BufferedReader(new InputStreamReader(echoSocket.getInputStream()));
-            } catch (UnknownHostException e) {
-                System.err.println("Don't know about host.");
-                System.exit(1);
-            } catch (IOException e) {
-                System.err.println("Couldn't get I/O for the connection.");
-                System.exit(1);
-            }
-
             Integer levDist = 0;
             System.out.println(currentPassword);
-            out.println("LOGIN szymon;" + currentPassword);
-            System.out.println((levDist=Integer.parseInt(in.readLine())));
-            if(levDist==0) {
-                System.out.println("Well Done");
+            String returned = tryPassword("LOGIN szymon;" + currentPassword);
+            if(returned.length()==10){
                 break;
+            }
+            try {
+                System.out.println((levDist=Integer.parseInt(returned)));
+            } catch (NumberFormatException ex) {
+                System.out.println("Well Done!");
+                System.out.println("Twoje ID: "+returned);
             }
             distForPastPass = distForCurrentPass;
             distForCurrentPass = levDist;
@@ -146,9 +110,6 @@ public class Main {
             }
             currentPassword = pass;
             iterations++;
-            out.close();
-            in.close();
-            echoSocket.close();
         }
     }
 }
